@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\bin\Debug\net8.0\contagem_regressiva.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\bin\Debug\net8.0\contagem_regressiva.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\bin\Debug\net8.0\contagem_regressiva.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\bin\Debug\net8.0\contagem_regressiva.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\bin\Debug\net8.0\contagem_regressiva.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\refint\contagem_regressiva.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\contagem_regressiva.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\contagem_regressiva\obj\Debug\net8.0\ref\contagem_regressiva.dll

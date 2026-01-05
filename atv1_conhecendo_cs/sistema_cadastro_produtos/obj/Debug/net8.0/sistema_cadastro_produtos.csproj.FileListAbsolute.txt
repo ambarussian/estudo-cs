@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\bin\Debug\net8.0\sistema_cadastro_produtos.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\bin\Debug\net8.0\sistema_cadastro_produtos.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\bin\Debug\net8.0\sistema_cadastro_produtos.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\bin\Debug\net8.0\sistema_cadastro_produtos.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\bin\Debug\net8.0\sistema_cadastro_produtos.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\refint\sistema_cadastro_produtos.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\sistema_cadastro_produtos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\sistema_cadastro_produtos\obj\Debug\net8.0\ref\sistema_cadastro_produtos.dll

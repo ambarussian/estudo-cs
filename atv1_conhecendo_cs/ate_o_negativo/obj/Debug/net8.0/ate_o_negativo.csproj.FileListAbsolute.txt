@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\bin\Debug\net8.0\ate_o_negativo.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\bin\Debug\net8.0\ate_o_negativo.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\bin\Debug\net8.0\ate_o_negativo.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\bin\Debug\net8.0\ate_o_negativo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\bin\Debug\net8.0\ate_o_negativo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\refint\ate_o_negativo.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ate_o_negativo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\ate_o_negativo\obj\Debug\net8.0\ref\ate_o_negativo.dll

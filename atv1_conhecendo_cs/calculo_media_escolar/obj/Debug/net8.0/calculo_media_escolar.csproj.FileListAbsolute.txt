@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\bin\Debug\net8.0\calculo_media_escolar.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\bin\Debug\net8.0\calculo_media_escolar.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\bin\Debug\net8.0\calculo_media_escolar.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\bin\Debug\net8.0\calculo_media_escolar.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\bin\Debug\net8.0\calculo_media_escolar.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\refint\calculo_media_escolar.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\calculo_media_escolar.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_media_escolar\obj\Debug\net8.0\ref\calculo_media_escolar.dll

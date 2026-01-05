@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\bin\Debug\net8.0\adivinhar_numero_aleatorio.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\bin\Debug\net8.0\adivinhar_numero_aleatorio.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\bin\Debug\net8.0\adivinhar_numero_aleatorio.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\bin\Debug\net8.0\adivinhar_numero_aleatorio.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\bin\Debug\net8.0\adivinhar_numero_aleatorio.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\refint\adivinhar_numero_aleatorio.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\adivinhar_numero_aleatorio.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\adivinhar_numero_aleatorio\obj\Debug\net8.0\ref\adivinhar_numero_aleatorio.dll

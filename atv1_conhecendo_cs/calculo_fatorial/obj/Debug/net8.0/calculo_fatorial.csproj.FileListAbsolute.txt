@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\bin\Debug\net8.0\calculo_fatorial.exe
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\bin\Debug\net8.0\calculo_fatorial.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\bin\Debug\net8.0\calculo_fatorial.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\bin\Debug\net8.0\calculo_fatorial.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\bin\Debug\net8.0\calculo_fatorial.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\refint\calculo_fatorial.dll
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\calculo_fatorial.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv1\calculo_fatorial\obj\Debug\net8.0\ref\calculo_fatorial.dll
