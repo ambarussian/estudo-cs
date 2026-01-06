@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\bin\Debug\net8.0\ordenacao_reversa_paises.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\bin\Debug\net8.0\ordenacao_reversa_paises.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\bin\Debug\net8.0\ordenacao_reversa_paises.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\bin\Debug\net8.0\ordenacao_reversa_paises.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\bin\Debug\net8.0\ordenacao_reversa_paises.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\refint\ordenacao_reversa_paises.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ordenacao_reversa_paises.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_reversa_paises\obj\Debug\net8.0\ref\ordenacao_reversa_paises.dll

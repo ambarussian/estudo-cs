@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\bin\Debug\net8.0\contagem_cores_primarias.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\bin\Debug\net8.0\contagem_cores_primarias.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\bin\Debug\net8.0\contagem_cores_primarias.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\bin\Debug\net8.0\contagem_cores_primarias.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\bin\Debug\net8.0\contagem_cores_primarias.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\refint\contagem_cores_primarias.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\contagem_cores_primarias.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_cores_primarias\obj\Debug\net8.0\ref\contagem_cores_primarias.dll

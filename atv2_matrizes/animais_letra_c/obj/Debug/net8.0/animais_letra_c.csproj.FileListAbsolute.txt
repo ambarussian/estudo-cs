@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\bin\Debug\net8.0\animais_letra_c.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\bin\Debug\net8.0\animais_letra_c.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\bin\Debug\net8.0\animais_letra_c.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\bin\Debug\net8.0\animais_letra_c.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\bin\Debug\net8.0\animais_letra_c.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\refint\animais_letra_c.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\animais_letra_c.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\animais_letra_c\obj\Debug\net8.0\ref\animais_letra_c.dll

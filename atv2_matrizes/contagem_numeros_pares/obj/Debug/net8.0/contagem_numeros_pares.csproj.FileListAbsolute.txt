@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\bin\Debug\net8.0\contagem_numeros_pares.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\bin\Debug\net8.0\contagem_numeros_pares.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\bin\Debug\net8.0\contagem_numeros_pares.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\bin\Debug\net8.0\contagem_numeros_pares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\bin\Debug\net8.0\contagem_numeros_pares.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\refint\contagem_numeros_pares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\contagem_numeros_pares.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_numeros_pares\obj\Debug\net8.0\ref\contagem_numeros_pares.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\bin\Debug\net8.0\primeira_ultima_fruta.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\bin\Debug\net8.0\primeira_ultima_fruta.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\bin\Debug\net8.0\primeira_ultima_fruta.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\bin\Debug\net8.0\primeira_ultima_fruta.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\bin\Debug\net8.0\primeira_ultima_fruta.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\refint\primeira_ultima_fruta.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\primeira_ultima_fruta.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\primeira_ultima_fruta\obj\Debug\net8.0\ref\primeira_ultima_fruta.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\bin\Debug\net8.0\ordenacao_alfabetica_frutas.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\bin\Debug\net8.0\ordenacao_alfabetica_frutas.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\bin\Debug\net8.0\ordenacao_alfabetica_frutas.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\bin\Debug\net8.0\ordenacao_alfabetica_frutas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\bin\Debug\net8.0\ordenacao_alfabetica_frutas.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\refint\ordenacao_alfabetica_frutas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ordenacao_alfabetica_frutas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\ordenacao_alfabetica_frutas\obj\Debug\net8.0\ref\ordenacao_alfabetica_frutas.dll

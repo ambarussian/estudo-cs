@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "contagem_paises_dez_letras/1.0.0": {
+        "runtime": {
+          "contagem_paises_dez_letras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contagem_paises_dez_letras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

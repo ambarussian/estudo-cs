@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "animais_letra_c/1.0.0": {
+        "runtime": {
+          "animais_letra_c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "animais_letra_c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\bin\Debug\net8.0\remocao_impares.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\bin\Debug\net8.0\remocao_impares.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\bin\Debug\net8.0\remocao_impares.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\bin\Debug\net8.0\remocao_impares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\bin\Debug\net8.0\remocao_impares.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\refint\remocao_impares.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\remocao_impares.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\remocao_impares\obj\Debug\net8.0\ref\remocao_impares.dll

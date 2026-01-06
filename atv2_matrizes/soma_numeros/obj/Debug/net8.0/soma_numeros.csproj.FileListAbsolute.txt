@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\bin\Debug\net8.0\soma_numeros.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\bin\Debug\net8.0\soma_numeros.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\bin\Debug\net8.0\soma_numeros.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\bin\Debug\net8.0\soma_numeros.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\bin\Debug\net8.0\soma_numeros.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\refint\soma_numeros.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\soma_numeros.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\soma_numeros\obj\Debug\net8.0\ref\soma_numeros.dll

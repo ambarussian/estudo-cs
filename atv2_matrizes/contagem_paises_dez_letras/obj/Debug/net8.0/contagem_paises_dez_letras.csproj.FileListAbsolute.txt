@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\bin\Debug\net8.0\contagem_paises_dez_letras.exe
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\bin\Debug\net8.0\contagem_paises_dez_letras.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\bin\Debug\net8.0\contagem_paises_dez_letras.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\bin\Debug\net8.0\contagem_paises_dez_letras.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\bin\Debug\net8.0\contagem_paises_dez_letras.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\refint\contagem_paises_dez_letras.dll
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\contagem_paises_dez_letras.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv2_matrizes\contagem_paises_dez_letras\obj\Debug\net8.0\ref\contagem_paises_dez_letras.dll
