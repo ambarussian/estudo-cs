@@ -1,0 +1,14 @@
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\bin\Debug\net8.0\QuestaoDois.exe
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\bin\Debug\net8.0\QuestaoDois.deps.json
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\bin\Debug\net8.0\QuestaoDois.runtimeconfig.json
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\bin\Debug\net8.0\QuestaoDois.dll
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\bin\Debug\net8.0\QuestaoDois.pdb
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.AssemblyInfoInputs.cache
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.AssemblyInfo.cs
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.csproj.CoreCompileInputs.cache
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.dll
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\refint\QuestaoDois.dll
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.pdb
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\QuestaoDois.genruntimeconfig.cache
+C:\Users\gabi\source\repos\QuestaoUm\QuestaoDois\obj\Debug\net8.0\ref\QuestaoDois.dll

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727F1BD2-6148-4B15-9B80-04D70F1FA6F9}|Aula07\\QuestaoUm.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\aula07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727F1BD2-6148-4B15-9B80-04D70F1FA6F9}|Aula07\\QuestaoUm.csproj|solutionrelative:aula07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\questaoum\\questaodois\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D67C00D-CE94-4F0E-A722-3F47A3A4ED32}|QuestaoDois\\QuestaoDois.csproj|solutionrelative:questaodois\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\Aula07\\Program.cs",
+              "RelativeDocumentMoniker": "Aula07\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\Aula07\\Program.cs",
+              "RelativeToolTip": "Aula07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:51:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Caminhao.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Caminhao.cs",
+              "RelativeToolTip": "QuestaoDois\\Caminhao.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:47:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Moto.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\Moto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Moto.cs",
+              "RelativeToolTip": "QuestaoDois\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:46:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Carro.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\Carro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Carro.cs",
+              "RelativeToolTip": "QuestaoDois\\Carro.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:43:14.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Veiculo.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Veiculo.cs",
+              "RelativeToolTip": "QuestaoDois\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:40:22.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\IVeiculo.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\IVeiculo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\IVeiculo.cs",
+              "RelativeToolTip": "QuestaoDois\\IVeiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:35:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Program.cs",
+              "RelativeDocumentMoniker": "QuestaoDois\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\QuestaoUm\\QuestaoDois\\Program.cs",
+              "RelativeToolTip": "QuestaoDois\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:16:33.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
