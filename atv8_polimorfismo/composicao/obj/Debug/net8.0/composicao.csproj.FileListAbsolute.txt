@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\bin\Debug\net8.0\composicao.exe
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\bin\Debug\net8.0\composicao.deps.json
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\bin\Debug\net8.0\composicao.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\bin\Debug\net8.0\composicao.dll
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\bin\Debug\net8.0\composicao.pdb
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.dll
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\refint\composicao.dll
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.pdb
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\composicao.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\polimorfismo\composicao\obj\Debug\net8.0\ref\composicao.dll
