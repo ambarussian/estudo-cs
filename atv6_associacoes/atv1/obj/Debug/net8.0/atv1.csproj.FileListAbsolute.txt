@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\bin\Debug\net8.0\atv1.exe
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\bin\Debug\net8.0\atv1.deps.json
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\bin\Debug\net8.0\atv1.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\bin\Debug\net8.0\atv1.dll
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\bin\Debug\net8.0\atv1.pdb
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.dll
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\refint\atv1.dll
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.pdb
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\atv1.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\Associações\atv1\obj\Debug\net8.0\ref\atv1.dll
