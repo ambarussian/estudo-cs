@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\bin\Debug\net8.0\conversor_moedas.exe
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\bin\Debug\net8.0\conversor_moedas.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\bin\Debug\net8.0\conversor_moedas.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\bin\Debug\net8.0\conversor_moedas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\bin\Debug\net8.0\conversor_moedas.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\refint\conversor_moedas.dll
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\conversor_moedas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv3_classes\conversor_moedas\obj\Debug\net8.0\ref\conversor_moedas.dll
