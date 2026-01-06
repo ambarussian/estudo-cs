@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\atv4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209ABA31-6D67-433C-B125-8210C10223E0}|aplicativo_banco\\aplicativo_banco.csproj|c:\\users\\usuario\\documents\\programa\u00E7\u00E3o\\c#\\atv4\\aplicativo_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209ABA31-6D67-433C-B125-8210C10223E0}|aplicativo_banco\\aplicativo_banco.csproj|solutionrelative:aplicativo_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\atv4\\aplicativo_banco\\Program.cs",
+              "RelativeDocumentMoniker": "aplicativo_banco\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programa\u00E7\u00E3o\\C#\\atv4\\aplicativo_banco\\Program.cs",
+              "RelativeToolTip": "aplicativo_banco\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:12:49.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

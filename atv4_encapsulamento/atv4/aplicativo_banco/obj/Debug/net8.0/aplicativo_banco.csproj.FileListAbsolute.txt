@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\bin\Debug\net8.0\aplicativo_banco.exe
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\bin\Debug\net8.0\aplicativo_banco.deps.json
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\bin\Debug\net8.0\aplicativo_banco.runtimeconfig.json
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\bin\Debug\net8.0\aplicativo_banco.dll
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\bin\Debug\net8.0\aplicativo_banco.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.dll
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\refint\aplicativo_banco.dll
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.pdb
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\aplicativo_banco.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Programação\C#\atv4\aplicativo_banco\obj\Debug\net8.0\ref\aplicativo_banco.dll
